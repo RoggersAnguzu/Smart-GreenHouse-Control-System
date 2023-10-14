@@ -1,9 +1,9 @@
-**Project Name:** GreenGuard - Smart Greenhouse Control System
-![image](https://github.com/RoggersAnguzu/Smart-GreenHouse-Control-System/assets/141458053/0d1f234c-0a9b-48da-8004-9c3ceaecb84d)
+
 **Schematic_View**
 ![image](https://github.com/RoggersAnguzu/Smart-GreenHouse-Control-System/assets/141458053/454b26d9-286b-42d2-aa02-29698d5820a1)
 **Software_Only**
 ![image](https://github.com/RoggersAnguzu/Smart-GreenHouse-Control-System/assets/141458053/bef43415-2a36-4738-bb0c-68bc31e2da60)
+**Project Name:** GreenGuard - Smart Greenhouse Control System
 **Description:**
 GreenGuard is a comprehensive smart greenhouse control system that helps you monitor and manage your greenhouse environment effectively. It utilizes a network of sensors to keep an eye on crucial factors such as soil moisture, humidity, and temperature. The system's intelligent logic triggers an actuator (pump or motor) to maintain optimal conditions for plant growth.
 
@@ -22,10 +22,4 @@ GreenGuard is a comprehensive smart greenhouse control system that helps you mon
 
 **Contributing:**
 Contributions are welcome! Whether you're experienced in hardware, software, or data analysis, there's a place for you in our community. Check out our [contribution guidelines](link-to-contributing.md) to get started.
-
-**License:**
-This project is open-source and available under the [MIT License](https://opensource.org/license/mit/).
-
-**Maintainers:**
-- Roggers Anguzu(github.com/RoggersAnguzu) - Project Lead
   
