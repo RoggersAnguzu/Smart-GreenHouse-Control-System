@@ -1,6 +1,8 @@
- **Motivation.**
+ **Motivation:**
+ 
 The primary goal of the GreenGuard project is to create an automated system that optimizes the conditions within a greenhouse. It does this by ensuring that the actuator (pump or other device) only activates when necessary. Specifically, the actuator will turn on when either the soil moisture or humidity levels drop below a specified threshold, and the temperature is high. This ensures that the greenhouse environment remains conducive for plant growth while conserving resources.
- **Schematic_View**
+ **Schematic_View:**
+ 
 ![image](https://github.com/RoggersAnguzu/Smart-GreenHouse-Control-System/assets/141458053/454b26d9-286b-42d2-aa02-29698d5820a1)
  **Software_Only**
 ![image](https://github.com/RoggersAnguzu/Smart-GreenHouse-Control-System/assets/141458053/bef43415-2a36-4738-bb0c-68bc31e2da60)
